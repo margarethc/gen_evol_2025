@@ -9,3 +9,11 @@ Este repositorio contiene un caso de estudio diseñado para familiarizarse con b
 - Obtener toy datasets de Ensembl.
 - Explorar duplicaciones génicas usando datos de Ensembl.
 - Familiarizarse con herramientas bioinformáticas clave en genómica evolutiva.
+
+NOTA: cosas interesantes de Ensembl:
+
+Built-in BLAST
+
+https://www.ensembl.org/info/docs/tools/index.html
+
+https://ftp.ensembl.org/pub/
