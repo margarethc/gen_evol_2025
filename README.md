@@ -33,6 +33,8 @@ Extraer atributos clave de los SNPs como la posición cromosómica, el tipo de v
 - Identificar SNPs potencialmente ligados con base a su proximidad física, como paso inicial para comprender haplotipos y desequilibrio de ligamiento (LD).
 
 
+## Clase 5 - Pipelines con Nextflow & Colab
+
 ### 🎯 Objetivos de la clase 5
 
 - Entender las unidades computacionales
