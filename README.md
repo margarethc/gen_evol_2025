@@ -31,3 +31,10 @@ Extraer atributos clave de los SNPs como la posición cromosómica, el tipo de v
   - Clases de variantes (SNVs, deleciones, etc.)
   - Categorías funcionales (intrónicos, upstream, etc.)
 - Identificar SNPs potencialmente ligados con base a su proximidad física, como paso inicial para comprender haplotipos y desequilibrio de ligamiento (LD).
+
+
+### 🎯 Objetivos de la clase 5
+
+- Entender las unidades computacionales
+- Aprender a manejar operadores
+- Aplicar un nextflow pipeline en un ejemplo sencillo
