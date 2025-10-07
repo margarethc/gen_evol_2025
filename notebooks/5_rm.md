@@ -65,6 +65,11 @@ profiles {
 
 note: check all the avail biocontainers: https://hub.docker.com/u/biocontainers
 
+biocontainers/fastqc is a pre-built container that includes several software and all their dependencies.
+When you run your workflow, Nextflow will automatically download this container if it's not already available on your system.
+This ensures that your process runs in a consistent and reproducible environment, regardless of your local setup.
+For our cloud computing, we may need to 
+
 ### Summary
 
 | Component | Location | Purpose |
