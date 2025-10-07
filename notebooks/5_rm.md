@@ -65,10 +65,19 @@ profiles {
 
 note: check all the avail biocontainers: https://hub.docker.com/u/biocontainers
 
-biocontainers/fastqc is a pre-built container that includes several software and all their dependencies.
+biocontainers/x is a pre-built container that includes several software and all their dependencies.
 When you run your workflow, Nextflow will automatically download this container if it's not already available on your system.
 This ensures that your process runs in a consistent and reproducible environment, regardless of your local setup.
-For our cloud computing, we may need to 
+For our cloud computing, we need to use Docker.
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c4ed023-cc64-4cbf-98f4-bf2e626a8a54" />
+
+
+Processes are recipes.
+Channels are conveyor belts for ingredients.
+Operators are tools that modify ingredients.
+Configurations are the kitchen setup.
 
 ### Summary
 
