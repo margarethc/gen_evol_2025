@@ -63,6 +63,8 @@ profiles {
 }
 ```
 
+note: check all the avail biocontainers: https://hub.docker.com/u/biocontainers
+
 ### Summary
 
 | Component | Location | Purpose |
